@@ -1,0 +1,8 @@
+﻿  Blur.cpp
+d:\dai hoc\nam iii\xu ly anh va video so\cbed\dip_3\dip_lab3\blur.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Convolution.cpp
+  EdgeDetector.cpp
+  Source.cpp
+  Generating Code...
+d:\dai hoc\nam iii\xu ly anh va video so\cbed\dip_3\dip_lab3\blur.cpp(7): warning C4715: 'compare': not all control paths return a value
+  DIP_Lab3.vcxproj -> D:\DAI HOC\NAM III\XU LY ANH VA VIDEO SO\CBED\DIP_3\x64\Debug\DIP_Lab3.exe
