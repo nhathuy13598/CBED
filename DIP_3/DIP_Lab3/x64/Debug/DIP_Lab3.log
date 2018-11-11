@@ -1,7 +1,0 @@
-﻿  Convolution.cpp
-d:\dai hoc\nam iii\xu ly anh va video so\cbed\dip_3\dip_lab3\convolution.cpp(79): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
-          with
-          [
-              _Ty=float
-          ]
-  DIP_Lab3.vcxproj -> D:\DAI HOC\NAM III\XU LY ANH VA VIDEO SO\CBED\DIP_3\x64\Debug\DIP_Lab3.exe
